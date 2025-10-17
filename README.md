@@ -107,35 +107,6 @@ Simply describe your idea (via text, voice, or document), and BizPilot instantly
 
 ---
 
-## 🧠 Team BizPilot  
-
-| Role | Name |
-|------|------|
-| AI & Product Design | *Your Name* |
-| Full-Stack Development | *Teammate Name* |
-| UI/UX & Research | *Teammate Name* |
-| ML & Forecasting | *Teammate Name* |
-
----
-
-## 🏆 Built At  
-**[Hackathon Name] 2025**  
-BizPilot was created during the [Hackathon Name] to redefine entrepreneurship in emerging markets through accessible, localized AI tools.
-
----
-
-## 📜 License  
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📫 Contact  
-
-🌐 **Website:** [https://your-deployed-link-here.com](https://your-deployed-link-here.com)  
-🐙 **GitHub:** [https://github.com/yourusername/bizpilot](https://github.com/yourusername/bizpilot)  
-📧 **Email:** [team@bizpilot.ai](mailto:team@bizpilot.ai)
-
----
 
 ### 🌟 Support the Project  
 If you like BizPilot, please ⭐ the repo — it helps us grow and inspire more entrepreneurs!  
