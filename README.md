@@ -1,17 +1,6 @@
 # 🚀 BizPilot — Your AI Co-Founder for Smarter Entrepreneurship  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/bizpilot)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/bizpilot)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/bizpilot)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/bizpilot?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 > **BizPilot** empowers entrepreneurs to transform raw ideas into thriving, data-driven businesses using intelligent automation and localized AI insights.
-
----
-
-## 🌍 Live Demo
-👉 **[Try BizPilot Now](https://your-deployed-link-here.com)**  
 
 ---
 
@@ -45,32 +34,12 @@ Simply describe your idea (via text, voice, or document), and BizPilot instantly
 
 ---
 
-## 💎 Subscription Tiers  
-
-| Tier | Price | Benefits |
-|------|-------|-----------|
-| **Free** | $0 | 2 models/idea, 3-month forecasts, 50 chat messages/month. |
-| **Pro** | $9.99/mo | Unlimited models, 24-month forecasts, templates, alerts, integrations. |
-| **Enterprise** | $49.99/mo | Team accounts, API access, white-label branding, custom AI fine-tuning. |
-
----
 
 ## 👥 Target Users  
 - Solo entrepreneurs & freelancers  
 - Small business owners in emerging markets (e.g., Dhaka)  
 - Startup incubators & accelerators  
 - NGOs & educational programs promoting entrepreneurship  
-
----
-
-## ⚙️ Tech Stack  
-
-**Frontend:** React + TailwindCSS + Web Speech API  
-**Backend:** Node.js / FastAPI (serverless architecture)  
-**Database:** Firebase / MongoDB  
-**AI Engine:** GPT + ARIMA/Prophet forecasting  
-**Charts:** Chart.js / Recharts  
-**Hosting:** Render / Vercel  
 
 ---
 
